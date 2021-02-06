@@ -1,0 +1,8 @@
+[Opciones]
+bell = 0
+iso_path = /home/user/iso
+psp_path = /media/disk/
+save_path = /home/user/savegame
+expl = nautilus
+osd = 1
+
